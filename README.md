@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RjamesAt
-- 👀 I’m interested in Data Science Entry Level.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning SQL/PowerBI/R.
+
 
 <!---
 RjamesAt/RjamesAt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
